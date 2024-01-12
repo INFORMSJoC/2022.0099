@@ -36,7 +36,7 @@ The goal of this software is to compute (the size of) optimality certificates fo
 
 ## Building
 
-In order to run the code you need an installation with a valid license of [GUROBI](https://www.gurobi.com/).
+In order to run the code you need an installation with a valid license of [Gurobi](https://www.gurobi.com/).
 
 No further installation is necessary. The code can directly get called, for example,
 ```
